@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishnu Vardhan @kvvr121
 - 👀 I’m interested in mastering Python which open doors for Automation, Scripting, Web Development, AI & ML, Data Science, Product Management and much more in future.
 - 🌱 I’m currently learning Python bootcamp
-- 💞️ I’m looking to collaborate on any given opportunities related to scripting, web development.
+- 💞️ I’m looking to collaborate on any given opportunities related to Computer Vision and Deep Learning.
 - 📫 How to reach me ? --- https://www.linkedin.com/in/vishnu-vardhan-reddy-82128b131/
 
 <!---
