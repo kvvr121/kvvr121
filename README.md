@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu Vardhan @kvvr121
 - 👀 I’m interested in Automation, DevOps and Business Architecture.
-- 🌱 I’m currently upskilling myself in DevOps by doing projects in roadmap.sh
+- 🌱 I’m currently upskilling myself in DevOps by following KodeKloud.
 - 💞️ I’m looking to collaborate on any given opportunities building products.
 - 📫 How to reach me ? --- https://www.linkedin.com/in/vishnu-vardhan-reddy-k-82128b131
 
